@@ -1,8 +1,12 @@
 # RetoTecnico_Sofka
 
-CHALLENGE - JUEGO DE CARROS POR CONSOLA
+CHALLENGE - JUEGO DE CARROS POR CONSOLA 
 
-1) Se puede colocar: se le pide a los usuarios crear la pista con el nombre de su preferencia y la distancia que deseen recorrer?
+*El challenge fue realizado en JAVA*
+
+Para el juego se realizaron las siguientes indicaciones:
+
+1) Se puede colocar: se le pide a los usuarios crear la pista con el nombre de su preferencia y la distancia que deseen recorrer
 
 2) Se tiene un menú en el cual se puede agregar:
    *jugadores nuevos.
