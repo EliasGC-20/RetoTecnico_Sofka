@@ -2,7 +2,7 @@
 
 CHALLENGE - JUEGO DE CARROS POR CONSOLA 
 
-*El challenge fue realizado en JAVA*
+El challenge fue realizado en JAVA
 
 Para el juego se realizaron las siguientes indicaciones:
 
