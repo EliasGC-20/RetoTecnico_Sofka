@@ -1,0 +1,8 @@
+com\sofka\test\Test.class
+com\sofka\entidades\Carril.class
+com\sofka\entidades\Jugador.class
+com\sofka\entidades\Pista.class
+com\sofka\entidades\Carro.class
+com\sofka\entidades\Podio.class
+com\sofka\entidades\Conductor.class
+com\sofka\servicios\Juego.class
